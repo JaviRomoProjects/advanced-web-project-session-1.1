@@ -12,7 +12,7 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@tailwindcss/vite": "^4.0.6",
-    "axios": "^1.7.9",
+    "axios": "^1.12.0",
     "firebase": "^11.3.1",
     "firestore": "^1.1.6",
     "react": "^19.0.0",
